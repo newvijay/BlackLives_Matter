@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.child{
+    flex: 1;
+}
+
+.child:first-child{
+    margin-right: 100px;
+}
+
+.rightdiv{
+    margin-top: 200px;
+}
+
+.commentspan{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 100px;
+    display: inline-block;
+}
