@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is about the BlackLives Matter, which provides the following features.
+
+1) Login
+2) Share the story with an image
+3) Comment/Like for others stories
+
+Stack - MERN
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
